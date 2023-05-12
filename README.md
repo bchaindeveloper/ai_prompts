@@ -4,14 +4,6 @@ This is a Next.JS application that allows you to sign in with your Google accoun
 
 Visit AI_Prompts at https://ai-prompts-fazbnkf1e-bchaindeveloper.vercel.app/
 
-
-
-# Run Development Server:
-
-```bash
-npm run dev
-```
-
 ## Screenshot:
 ![Screenshot](public/Screenshot.png)
 
