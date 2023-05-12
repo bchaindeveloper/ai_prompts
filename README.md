@@ -13,7 +13,7 @@ npm run dev
 ```
 
 ## Screenshot:
-![Screenshot](public/Screenshott.png)
+![Screenshot](public/Screenshot.png)
 
 ## Built with:
 
